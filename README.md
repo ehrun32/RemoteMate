@@ -1,6 +1,9 @@
 # RemoteMate 🦾
 
-
+*TV remote too far* (◐▂◑ )
+💡Let me use REMOTEMATE to grab the remote! 😉
+WOOOO 😝
+ 
 
 ## Project Summary
 This project propose to design and build a fully remotely controllable robotic arm which perfectly mimics
