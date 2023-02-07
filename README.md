@@ -1,6 +1,6 @@
 # RemoteMate 🦾
 
-<p> *TV remote too far* (◐▂◑ ) </p>
+*TV remote too far* (◐▂◑ ) 
 <p> 💡Let me use REMOTEMATE to grab the remote! 😉 </p>
 <p> WOOOO 😝 </p>
  
