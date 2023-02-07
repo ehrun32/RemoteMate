@@ -101,10 +101,17 @@ The final web application design along with its implemented features are shown b
 ## Next steps
 
 Things to improve:
+- Make the Robotic arm Controlled through Raspberry Pi instead of 2 LAPTOPS
+- Make it automated
 
 
 
 ## References
 
+- Admin, Site. “HCPCA9685 - Library for PCA9685 16ch 12bit PWM Controller.” Hobby
+Components, 13 June 2016, forum.hobbycomponents.com/viewtopic.php?t=2034.
+- Christensen, Jack. “MovingAVG.” GitHub, Mar. 2012, github.com/JChristensen/movingAvg.
+- Einaros, et al. “Node.JS Websocket Library.” NPM, www.npmjs.com/package/ws.
+- Reconbot, and HipsterBrown. “Serialport.” NPM, www.npmjs.com/package/serialport.
 
 
