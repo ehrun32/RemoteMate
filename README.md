@@ -1,4 +1,4 @@
-# RemoteMate 🗣️
+# RemoteMate 🦾
 
 A speech recognizer for Spotify commands
 
