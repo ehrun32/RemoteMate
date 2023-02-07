@@ -49,7 +49,7 @@ reference object.
   data sent is present with too high of an increment (beyond threshold
   value). Robust control of the arm is maintained.
 ### Web Movement
--WASD
+- WASD
   - WASD control successfully controls the remaining 2 joints on the robotic arm
   including the base and elbow1.
 ### Toggle Features
@@ -78,9 +78,10 @@ contains 3 major components including the input/output control of the robotic ar
 application and the user feedback with dimension algorithm.
 
 ### Glove and Robotic Arm Control
-The final prototype for the globe and robotic arm modules are shown below. The glove serves as
-the input control unit and the robotic arm serves as the output control unit.
+The final prototype for the globe and robotic arm modules are shown below. The glove serves as the input control unit and the robotic arm serves as the output control unit.
+
 ![image](https://user-images.githubusercontent.com/57046416/217128702-a53b75df-6068-48e9-a1db-198fb295625b.png)
+
 ![image](https://user-images.githubusercontent.com/57046416/217128735-c08c5e6e-e092-41d5-9979-11c39e60e699.png)
 
 ### Web Application/Server
