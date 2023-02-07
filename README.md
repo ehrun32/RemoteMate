@@ -11,7 +11,7 @@ arm’s features which include clamp pressure options, movement controls for ext
 movement sensitivity options.
 
 ## Methodology
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ### 
 
 
