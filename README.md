@@ -74,11 +74,15 @@ congestion.
 ## Prototype
 The following section discusses the performance of the integrated prototype as a whole. The
 prototype is completely functional and all promised features have been delivered. The prototype
-contains 3 major components including the input/output control of the robotic arm, the web
-application and the user feedback with dimension algorithm.
+contains 2 major components including the input/output control of the robotic arm and the web
+application.
 
 ### Glove and Robotic Arm Control
 The final prototype for the globe and robotic arm modules are shown below. The glove serves as the input control unit and the robotic arm serves as the output control unit.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57046416/217128702-a53b75df-6068-48e9-a1db-198fb295625b.png"/>
+</p>
 
 ![image](https://user-images.githubusercontent.com/57046416/217128702-a53b75df-6068-48e9-a1db-198fb295625b.png)
 
