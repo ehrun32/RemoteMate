@@ -84,14 +84,18 @@ The final prototype for the globe and robotic arm modules are shown below. The g
   <img src="https://user-images.githubusercontent.com/57046416/217128702-a53b75df-6068-48e9-a1db-198fb295625b.png"/>
 </p>
 
-![image](https://user-images.githubusercontent.com/57046416/217128702-a53b75df-6068-48e9-a1db-198fb295625b.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57046416/217128735-c08c5e6e-e092-41d5-9979-11c39e60e699.png"/>
+</p>
 
-![image](https://user-images.githubusercontent.com/57046416/217128735-c08c5e6e-e092-41d5-9979-11c39e60e699.png)
 
 ### Web Application/Server
 The final web application design along with its implemented features are shown below.
 
-![image](https://user-images.githubusercontent.com/57046416/217128835-e37ca4ae-0c75-4a78-95d9-a2ec1572049a.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57046416/217128835-e37ca4ae-0c75-4a78-95d9-a2ec1572049a.png"/>
+</p>
+
 
 
 ## Next steps
