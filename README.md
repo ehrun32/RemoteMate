@@ -11,7 +11,8 @@ arm’s features which include clamp pressure options, movement controls for ext
 movement sensitivity options.
 
 ## Methodology
-![alt text](https://github.com/ehrun32/RemoteMate/Images/Overall System Design Diagram.jpg?raw=true)
+![image](https://user-images.githubusercontent.com/57046416/217128001-85da4ccc-5645-4d18-becb-7c64d497bc03.png)
+
 ### 
 
 
