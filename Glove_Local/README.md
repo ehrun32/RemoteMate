@@ -1,1 +1,1 @@
-The whole arm controlled locally
+The whole arm controlled locally in one setting
