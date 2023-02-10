@@ -105,7 +105,8 @@ The final web application design along with its implemented features are shown b
 
 Things to improve:
 - Make the Robotic arm Controlled through Raspberry Pi instead of 2 LAPTOPS
-- Make it automated
+- Make it automated and aesthetically pleasing
+
 
 
 
