@@ -13,7 +13,7 @@ glove that the operator wears, and there will be a central web application which
 arm’s features which include clamp pressure options, movement controls for extra axes of freedom, and
 movement sensitivity options.
 
-<p> This Project was done for Final year CAPSTONE between a group of students, my role was the receiving side of the robotic arm and emulating scripts to the arm it self  </p>
+<p> This Project was done for Final year CAPSTONE between a group of students</p>
 
 ## Methodology
 ![image](https://user-images.githubusercontent.com/57046416/217128001-85da4ccc-5645-4d18-becb-7c64d497bc03.png)
